@@ -6,7 +6,7 @@ Hi, I'm XXX! I graduated with a Master's in Business Analytics from The XXX in A
 This repository showcases my programming skills, academic and self-learning projects, as well as certificates from data analytics courses.
 
 ## Table of Contents
-- [About]([#about](https://github.com/Yi-LingT/Optimizing-Inventory-for-Maximized-Profitability/blob/main/Optimizing-Inventory-for-Maximized-Profitability.ipynb))
+- [About](https://github.com/Yi-LingT/Optimizing-Inventory-for-Maximized-Profitability/blob/main/Optimizing-Inventory-for-Maximized-Profitability.ipynb)
 - [Academic Projects](#academic-projects)
   - [Customer Experience Analysis Project](#customer-experience-analysis-project)
   - [Grocery Retails Analysis Project](#grocery-retails-analysis-project)
