@@ -12,7 +12,7 @@ I’m passionate about continuing to blend my hands-on experience with advanced 
 This repository showcases my programming skills, academic and self-learning projects, as well as certificates from data analytics courses.
 
 ## Table of Contents
-- [About](https://github.com/Yi-LingT/Optimizing-Inventory-for-Maximized-Profitability/blob/main/Optimizing-Inventory-for-Maximized-Profitability.ipynb](https://github.com/Yi-LingT/Optimizing-Inventory-for-Maximized-Profitability/blob/main/assets/Optimizing-Inventory-for-Maximized-Profitability.ipynb)
+- [About](https://github.com/Yi-LingT/Data-Analytics-Portfolio/blob/main/README.md#about)
 - [Academic Projects](#academic-projects)
   - [Customer Experience Analysis Project](#customer-experience-analysis-project)
   - [Grocery Retails Analysis Project](#grocery-retails-analysis-project)
