@@ -8,8 +8,7 @@ In my role as a Data Analyst in Supply Chain & Operations at HP Inc., I’ve bee
 
 I’m passionate about continuing to blend my hands-on experience with advanced data analytics techniques, demonstrating how I’ve successfully transitioned from a solid grounding in logistics to becoming a data-driven problem solver who thrives on tackling complex issues with precision and creativity.
 
-
-This repository showcases my programming skills, academic and self-learning projects, as well as certificates from data analytics courses.
+This repository highlights my programming skills, academic and self-directed projects, and certifications from various data analytics courses.
 
 ## Table of Contents
 - [About](https://github.com/Yi-LingT/Data-Analytics-Portfolio/blob/main/README.md#about)
