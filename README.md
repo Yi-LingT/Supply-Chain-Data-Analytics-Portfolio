@@ -1,7 +1,13 @@
-# Yi-Ling (Jolin) Tsai - Data Analysis Portfolio
+# Yi-Ling Tsai - Supply Chain Data Analysis Portfolio
 
 ## About
-Hi, I'm XXX! I graduated with a Master's in Business Analytics from The XXX in August 2021. TBD...
+Hi, I'm Yi-Ling!
+I graduated with a Master's in Supply Chain Management from The University of Texas at Dallas in May 2021. My academic journey laid the foundation for my expertise in inventory management and logistics coordination, skills that I further honed during an impactful internship at HP Inc.
+
+In my role as a Data Analyst in Supply Chain & Operations at HP Inc., I’ve been at the forefront of driving efficiency through data. By leveraging SQL, Python, and Power BI, I’ve analyzed complex datasets, identified critical bottlenecks, and devised innovative solutions that not only improved supply chain processes but also led to significant cost savings. My analytical mindset allows me to dissect problems, uncover insights, and apply data-driven strategies to resolve real-world challenges.
+
+I’m passionate about continuing to blend my hands-on experience with advanced data analytics techniques, demonstrating how I’ve successfully transitioned from a solid grounding in logistics to becoming a data-driven problem solver who thrives on tackling complex issues with precision and creativity.
+
 
 This repository showcases my programming skills, academic and self-learning projects, as well as certificates from data analytics courses.
 
