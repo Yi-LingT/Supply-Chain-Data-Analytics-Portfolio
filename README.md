@@ -52,12 +52,6 @@ This repository showcases my programming skills, academic and self-learning proj
 - **Code:** [Personal Beauty Brand Project Code.sql](#)
 - **Status:** Completed in December 2021
 
-## Self-Learning Projects
-
-### Web Crawler and Application Programming Interface Project
-- **Description:** The Web Crawler and Application Programming Interface Project was an extracurricular project. I used the Instagram Graph API to extract over 30 image links from 20 key opinion leaders' accounts, totaling 600 images. I then used K-means clustering to analyze the colors in the images using the OpenCV package in Python, and identified the top 5 colors frequently used in each image, saving them in PNG format.
-- **Code:** [Web Crawler Project.ipynb](#)
-- **Status:** Completed in December 2021
 
 ## Certificates
 - **Advanced Relational Database and SQL (Jul 2021)** (Coursera)
