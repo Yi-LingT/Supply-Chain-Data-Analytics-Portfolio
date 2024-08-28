@@ -19,8 +19,6 @@ This repository showcases my programming skills, academic and self-learning proj
   - [Premium Vodka Product Campaign Evaluation](#premium-vodka-product-campaign-evaluation)
   - [Retail Store Sales Analysis](#retail-store-sales-analysis)
   - [Personal Beauty Brand Project](#personal-beauty-brand-project)
-- [Self-Learning Projects](#self-learning-projects)
-  - [Web Crawler and Application Programming Interface Project](#web-crawler-and-application-programming-interface-project)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
