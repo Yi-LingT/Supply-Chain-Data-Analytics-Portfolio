@@ -24,7 +24,7 @@ This repository showcases my programming skills, academic and self-learning proj
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
-## Academic Projects
+## Career Projects
 
 ### Customer Experience Analysis Project
 - **Description:** The Customer Experience Analysis Project was the final project for the Analytics for Brand Management and Customer Experience course, part of the Penn State graduate certificate in marketing analytics. The project addressed three business challenges, utilized four statistical analyses, and used fabricated data to examine customer experience for an Office Supply Company we created.
