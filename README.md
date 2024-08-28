@@ -58,6 +58,9 @@ This repository highlights my programming skills, academic and self-directed pro
 - **Intermediate Relational Database and SQL (Jun 2021)** (Coursera)
 - **Introduction to Relational Database and SQL (Jun 2021)** (Coursera)
 
+## Professional Endorsements
+- **Colleague Recommendations:** [@yi-ling-tsai](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) 
+
 ## Contacts
 - **LinkedIn:** [@yi-ling-tsai](https://www.linkedin.com/in/yi-ling-tsai/?locale=en_US)
 - **E-mail:** [yilingtsaipro@gmail.com](mailto:yilingtsaipro@gmail.com)
