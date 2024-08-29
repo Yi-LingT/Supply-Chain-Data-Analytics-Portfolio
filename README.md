@@ -38,11 +38,12 @@ This repository highlights my programming skills, academic and self-directed pro
 - **Status:** Completed in May 2019
 
 ## Professional Endorsements
-- **Colleague Recommendations:** [Linkedin Recommendations](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) 
+- **Colleague Recommendations:** [LinkedIn Recommendations](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) 
 
 ## Certificates
 - [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0019128821129) (Aug 2024) (Datacamp)
 - [MITx MircoMasters-Supply Chain Analytics](https://courses.edx.org/certificates/9c025b1f2d4a438498d698f064c2274c) (Apr 2024) (MITx)
+- [Six Sigma: Green Belt](https://www.linkedin.com/learning/certificates/fb75a687f9a4e5da99cc7805107d8a3442c3fa294177cbdba74e9b84ff42d476) (Mar 2021) (LinkedIn Learning)
 
 ## Contacts
 - **LinkedIn:** [@yi-ling-tsai](https://www.linkedin.com/in/yi-ling-tsai/?locale=en_US)
