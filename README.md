@@ -34,6 +34,7 @@ This repository highlights my programming skills, academic and self-directed pro
 ### Taiwan- Financial Dispute Analytics
 - **Description:** This document provides a comprehensive analysis of dispute cases handled by the Financial Ombudsman Institution in Taiwan, highlighting key insights across various dimensions, including industry sectors, dispute types, geographic distribution, and demographic trends.
 - **Presentation:** [Taiwan-Financial-Dispute-Analytics](https://github.com/Yi-LingT/Analytics-Projects/blob/main/3-1.%20Report-Taiwan-Financial-Dispute-Analytics)
+- **Dashboard:**[Power BI - Taiwan-Financial-Dispute-Dashboard](https://www.linkedin.com/in/yi-ling-tsai/overlay/experience/1342765487/multiple-media-viewer/?locale=en_US&profileId=ACoAABsZJsIBxynh2jz1HX9eCYq8jb0pGMB_Uw0&treasuryMediaId=1716409834572)
 - **Status:** Completed in May 2019
 
 ## Professional Endorsements
