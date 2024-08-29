@@ -15,7 +15,7 @@ This repository highlights my programming skills, academic and self-directed pro
 ### ADR Analysis of Hotel Booking Demand
 - **Description:** Conducted an in-depth examination of Average Daily Rate (ADR) patterns and booking behaviors, focusing on critical areas such as seasonal demand, cancellations, length of stay, market segments, lead times, and special requests. Leveraged advanced data visualization by using Python, Power BI and statistical analysis techniques to uncover actionable insights and develop targeted strategies.
 - **Presentation:** [Report-Hotel-Booking-Data-Analysis-Key-Insights-and-Recommendations.pdf](https://github.com/Yi-LingT/Analytics-Projects/blob/main/4-3.%20Report-Hotel-Booking-Data-Analysis-Key-Insights-and-Recommendations.pdf)
-- **Code:**
+- **Python Code:**
   **Data Cleaning** [Data_Cleaning_for_Hotel_booking_demand.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/4-1.%20Data_Cleaning_for_Hotel_booking_demand.ipynb)
   **Visualization** [Visualization_Hotel_Booking_Demand.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/4-2.%20Visualization_Hotel_Booking_Demand.ipynb)
 - **Status:** Completed in July 2024
@@ -23,7 +23,7 @@ This repository highlights my programming skills, academic and self-directed pro
 ### ABC Analysis of Sales and Inventory
 - **Description:** Determine which products should be continued to sell, and which products should be removed from our inventory by analyzing historical sales data and active on-hand inventory.
 - **Presentation:** [Optimizing-Inventory-for-Maximizing-Profitability.pdf](https://github.com/Yi-LingT/Analytics-Projects/blob/main/1-2.%20PPT-Optimizing-Inventory-for-Maximizing-Profitability.pdf)
-- **Code:**[Optimizing-Inventory-for-Maximizing-Profitability.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/1-1.%20Code-Optimizing-Inventory-for-Maximizing-Profitability.ipynb)
+- **Python Code:**[Optimizing-Inventory-for-Maximizing-Profitability.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/1-1.%20Code-Optimizing-Inventory-for-Maximizing-Profitability.ipynb)
 - **Status:** Completed in June 2024
 
 ### SCLC (Supply Chain Leadership Council) Case Competition for Pulp Pantry - Runner-up
@@ -34,7 +34,7 @@ This repository highlights my programming skills, academic and self-directed pro
 ### Taiwan- Financial Dispute Analytics
 - **Description:** This document provides a comprehensive analysis of dispute cases handled by the Financial Ombudsman Institution in Taiwan, highlighting key insights across various dimensions, including industry sectors, dispute types, geographic distribution, and demographic trends.
 - **Presentation:** [Taiwan-Financial-Dispute-Analytics](https://github.com/Yi-LingT/Analytics-Projects/blob/main/3-1.%20Report-Taiwan-Financial-Dispute-Analytics)
-- **Dashboard:**[Power BI - Taiwan-Financial-Dispute-Dashboard](https://www.linkedin.com/in/yi-ling-tsai/overlay/experience/1342765487/multiple-media-viewer/?locale=en_US&profileId=ACoAABsZJsIBxynh2jz1HX9eCYq8jb0pGMB_Uw0&treasuryMediaId=1716409834572)
+- **Power BI Dashboard:**[Taiwan-Financial-Dispute-Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGJkZDg2ODAtOWY1ZC00MWRmLWE1MmUtMzZkNTI5ODc2NWZiIiwidCI6IjljM2UyYTZmLWFmZDMtNDUwZS1hMTI2LTU2YzVkMDY4N2NmNyIsImMiOjEwfQ%3D%3D)
 - **Status:** Completed in May 2019
 
 ## Professional Endorsements
