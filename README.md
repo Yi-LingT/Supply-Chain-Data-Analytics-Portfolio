@@ -23,7 +23,7 @@ This repository highlights my programming skills, academic and self-directed pro
 ### ABC Analysis of Sales and Inventory
 - **Description:** Conducted an ABC analysis on historical sales data and active on-hand inventory to determine which products should be retained or removed from inventory. The analysis focused on optimizing inventory management to maximize profitability.
 - **Presentation:** [Optimizing Inventory for Maximizing Profitability (PDF)](https://github.com/Yi-LingT/Analytics-Projects/blob/main/1-2.%20PPT-Optimizing-Inventory-for-Maximizing-Profitability.pdf)
-- **Python Code:**[Optimizing Inventory for Maximizing Profitability (IPYNB)](https://github.com/Yi-LingT/Analytics-Projects/blob/main/1-1.%20Code-Optimizing-Inventory-for-Maximizing-Profitability.ipynb)
+- **Python Code:** [Optimizing Inventory for Maximizing Profitability (IPYNB)](https://github.com/Yi-LingT/Analytics-Projects/blob/main/1-1.%20Code-Optimizing-Inventory-for-Maximizing-Profitability.ipynb)
 - **Status:** Completed in June 2024
 
 ### SCLC (Supply Chain Leadership Council) Case Competition for Pulp Pantry - Runner-up
@@ -38,7 +38,7 @@ This repository highlights my programming skills, academic and self-directed pro
 - **Status:** Completed in May 2019
 
 ## Professional Endorsements
-- **Colleague Recommendations:** [LinkedIn Recommendations](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) 
+- **Colleague Recommendations:** [Linkedin Recommendations](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) 
 
 ## Contacts
 - **LinkedIn:** [@yi-ling-tsai](https://www.linkedin.com/in/yi-ling-tsai/?locale=en_US)
