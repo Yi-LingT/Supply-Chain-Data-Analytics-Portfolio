@@ -40,6 +40,10 @@ This repository highlights my programming skills, academic and self-directed pro
 ## Professional Endorsements
 - **Colleague Recommendations:** [Linkedin Recommendations](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) 
 
+## Certificates
+<br>[Data Analyst Associate](https://www.datacamp.com/certificate/DAA0019128821129)[(Aug 2024)(DataCamp)]
+<br>MITx MircoMasters-Supply Chain Analytics](https://courses.edx.org/certificates/9c025b1f2d4a438498d698f064c2274c)[(Apr 2024)(MITx)]
+
 ## Contacts
 - **LinkedIn:** [@yi-ling-tsai](https://www.linkedin.com/in/yi-ling-tsai/?locale=en_US)
 - **E-mail:** [yilingtsaipro@gmail.com](mailto:yilingtsaipro@gmail.com)
