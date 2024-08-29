@@ -10,53 +10,31 @@ I’m passionate about continuing to blend my hands-on experience with advanced 
 
 This repository highlights my programming skills, academic and self-directed projects, and certifications from various data analytics courses.
 
-## Table of Contents
-- [About](https://github.com/Yi-LingT/Data-Analytics-Portfolio/blob/main/README.md#about)
-- [Academic Projects](#academic-projects)
-  - [Customer Experience Analysis Project](#customer-experience-analysis-project)
-  - [Grocery Retails Analysis Project](#grocery-retails-analysis-project)
-  - [Premium Vodka Product Campaign Evaluation](#premium-vodka-product-campaign-evaluation)
-  - [Retail Store Sales Analysis](#retail-store-sales-analysis)
-  - [Personal Beauty Brand Project](#personal-beauty-brand-project)
-- [Certificates](#certificates)
-- [Contacts](#contacts)
-
 ## Career Projects
 
-### Customer Experience Analysis Project
-- **Description:** The Customer Experience Analysis Project was the final project for the Analytics for Brand Management and Customer Experience course, part of the Penn State graduate certificate in marketing analytics. The project addressed three business challenges, utilized four statistical analyses, and used fabricated data to examine customer experience for an Office Supply Company we created.
-- **Presentation:** [Customer Experience Analysis Project.pdf](#)
-- **Status:** Completed in May 2022
+### ADR Analysis of Hotel Booking Demand
+- **Description:** Conducted an in-depth examination of Average Daily Rate (ADR) patterns and booking behaviors, focusing on critical areas such as seasonal demand, cancellations, length of stay, market segments, lead times, and special requests. Leveraged advanced data visualization by using Python, Power BI and statistical analysis techniques to uncover actionable insights and develop targeted strategies.
+- **Presentation:** [Report-Hotel-Booking-Data-Analysis-Key-Insights-and-Recommendations.pdf](https://github.com/Yi-LingT/Analytics-Projects/blob/main/4-3.%20Report-Hotel-Booking-Data-Analysis-Key-Insights-and-Recommendations.pdf)
+- **Code:**
+- **Data Cleaning** [Data_Cleaning_for_Hotel_booking_demand.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/4-1.%20Data_Cleaning_for_Hotel_booking_demand.ipynb)
+- **Visualization** [Visualization_Hotel_Booking_Demand.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/4-2.%20Visualization_Hotel_Booking_Demand.ipynb)
+- **Status:** Completed in July 2024
 
-### Grocery Retails Analysis Project
-- **Description:** The Grocery Retails Analysis Project was conducted for the Analytics for Brand Management and Customer Experience course, part of the Penn State graduate certificate in marketing analytics. The course focused on key marketing challenges, including brand positioning and differentiation, pricing and product strategy, brand equity, and customer satisfaction. I utilized statistical models to interpret insights behind the data and proposed actionable recommendations to clients.
-- **Presentation:** [Grocery Retails Analysis Project.pdf](#)
-- **Status:** Completed in March 2022
+### ABC Analysis of Sales and Inventory
+- **Description:** Determine which products should be continued to sell, and which products should be removed from our inventory by analyzing historical sales data and active on-hand inventory.
+- **Presentation:** [Optimizing-Inventory-for-Maximizing-Profitability.pdf](https://github.com/Yi-LingT/Analytics-Projects/blob/main/1-2.%20PPT-Optimizing-Inventory-for-Maximizing-Profitability.pdf)
+- **Code:**[Optimizing-Inventory-for-Maximizing-Profitability.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/1-1.%20Code-Optimizing-Inventory-for-Maximizing-Profitability.ipynb)
+- **Status:** Completed in June 2024
 
-### Premium Vodka Product Campaign Evaluation
-- **Description:** The Premium Vodka Product Campaign Evaluation was a group final project for the Driving Business Success with Marketing Analytics course, part of the Penn State graduate certificate in marketing analytics. The course covered principles of applied marketing analytics, including marketing data sources, data quality, software, and fundamental statistics. I applied basic statistical metrics to interpret data and translate it into meaningful business insights and strategies.
-- **Presentation:** [Premium Vodka Product Campaign Evaluation Project.pdf](#)
-- **Status:** Completed in December 2021
+### SCLC (Supply Chain Leadership Council) Case Competition for Pulp Pantry - Runner-up
+- **Description:** This study covers competitor pricing, packaging design, wholesale promotion, shipping policy, and future subscription plans. Demonstrated strong entrepreneurial and analytical skills by creating a comprehensive business model for a sustainable snack startup. Developed an optimized linear programming model for subscription plans, logistics, shipping, and pricing strategies, securing second place in a highly competitive inter-university challenge.
+- **Presentation:** [Report-Pricing_Strategy_pulp_pantry.pdf](https://github.com/Yi-LingT/Analytics-Projects/blob/main/2-1.%20Report-Pricing_Strategy_pulp_pantry.pdf)
+- **Status:** Completed in December 2020
 
-### Retail Store Sales Analysis
-- **Description:** The Retail Store Sales Analysis was my final project for the Data Visualization for Business course. The project involved Walmart's sales analysis from 2010 to 2012. The dashboard visualizes sales over various time periods and monthly sales growth rates, helping stakeholders anticipate human or inventory shortages during holiday seasons and reallocate resources accordingly. The matrix table highlights whether regions with higher CPI or UNRATE have relatively higher sales than others.
-- **Dashboard:** [Go to my public Tableau dashboard](#)
-- **Status:** Completed in December 2021
-
-### Personal Beauty Brand Project
-- **Description:** The Personal Beauty Brand Project was a group final project for the Business Data Management course. We created our own personal beauty and skincare brand and analyzed 251 fabricated data points to conduct data analysis on customer, product, and supplier segments using SQL.
-- **Presentation:** [Personal Beauty Brand Project.pdf](#)
-- **Code:** [Personal Beauty Brand Project Code.sql](#)
-- **Status:** Completed in December 2021
-
-
-## Certificates
-- **Advanced Relational Database and SQL (Jul 2021)** (Coursera)
-- **COVID19 Data Analysis Using Python (Jun 2021)** (Coursera)
-- **Doing More with SAS Programming (Jun 2021)** (Coursera)
-- **Getting Started with SAS Programming (Jun 2021)** (Coursera)
-- **Intermediate Relational Database and SQL (Jun 2021)** (Coursera)
-- **Introduction to Relational Database and SQL (Jun 2021)** (Coursera)
+### Taiwan- Financial Dispute Analytics
+- **Description:** This document provides a comprehensive analysis of dispute cases handled by the Financial Ombudsman Institution in Taiwan, highlighting key insights across various dimensions, including industry sectors, dispute types, geographic distribution, and demographic trends.
+- **Presentation:** [Taiwan-Financial-Dispute-Analytics](https://github.com/Yi-LingT/Analytics-Projects/blob/main/3-1.%20Report-Taiwan-Financial-Dispute-Analytics)
+- **Status:** Completed in May 2019
 
 ## Professional Endorsements
 - **Colleague Recommendations:** [@yi-ling-tsai](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) 
