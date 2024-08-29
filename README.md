@@ -1,4 +1,4 @@
-# Yi-Ling Tsai - Advanced Supply Chain Analytics
+# Yi-Ling Tsai - Supply Chain Data Analytics
 
 ## About
 Hi, I'm Yi-Ling!
