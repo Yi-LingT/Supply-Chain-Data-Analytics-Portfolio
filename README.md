@@ -16,8 +16,8 @@ This repository highlights my programming skills, academic and self-directed pro
 - **Description:** Conducted an in-depth examination of Average Daily Rate (ADR) patterns and booking behaviors, focusing on critical areas such as seasonal demand, cancellations, length of stay, market segments, lead times, and special requests. Leveraged advanced data visualization by using Python, Power BI and statistical analysis techniques to uncover actionable insights and develop targeted strategies.
 - **Presentation:** [Report-Hotel-Booking-Data-Analysis-Key-Insights-and-Recommendations.pdf](https://github.com/Yi-LingT/Analytics-Projects/blob/main/4-3.%20Report-Hotel-Booking-Data-Analysis-Key-Insights-and-Recommendations.pdf)
 - **Code:**
-- **Data Cleaning** [Data_Cleaning_for_Hotel_booking_demand.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/4-1.%20Data_Cleaning_for_Hotel_booking_demand.ipynb)
-- **Visualization** [Visualization_Hotel_Booking_Demand.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/4-2.%20Visualization_Hotel_Booking_Demand.ipynb)
+    **Data Cleaning** [Data_Cleaning_for_Hotel_booking_demand.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/4-1.%20Data_Cleaning_for_Hotel_booking_demand.ipynb)
+    **Visualization** [Visualization_Hotel_Booking_Demand.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/4-2.%20Visualization_Hotel_Booking_Demand.ipynb)
 - **Status:** Completed in July 2024
 
 ### ABC Analysis of Sales and Inventory
