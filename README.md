@@ -38,7 +38,7 @@ This repository highlights my programming skills, academic and self-directed pro
 - **Status:** Completed in May 2019
 
 ## Professional Endorsements
-- **Colleague Recommendations:** [@yi-ling-tsai](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) 
+- **Colleague Recommendations:** [LinkedIn Recommendations](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) 
 
 ## Contacts
 - **LinkedIn:** [@yi-ling-tsai](https://www.linkedin.com/in/yi-ling-tsai/?locale=en_US)
