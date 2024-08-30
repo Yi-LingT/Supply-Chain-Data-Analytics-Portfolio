@@ -1,14 +1,9 @@
 # Yi-Ling Tsai - Supply Chain Data Analytics
 
 ## About
-Hi, I'm Yi-Ling!
-I graduated with a Master's in Supply Chain Management from The University of Texas at Dallas in May 2021. My academic journey laid the foundation for my expertise in inventory management and logistics coordination, skills that I further honed during an impactful internship at HP Inc.
+Hi, I'm Yi-Ling! I hold a Master’s in Supply Chain Management (STEM) from The University of Texas at Dallas. My academic background and hands-on experience as a Data Analyst at HP Inc. have equipped me with strong data analytical skills.
 
-In my role as a Data Analyst in Supply Chain & Operations at HP Inc., I’ve been at the forefront of driving efficiency through data. By leveraging SQL, Python, and Power BI, I’ve analyzed complex datasets, identified critical bottlenecks, and devised innovative solutions that not only improved supply chain processes but also led to significant cost savings. My analytical mindset allows me to dissect problems, uncover insights, and apply data-driven strategies to resolve real-world challenges.
-
-I’m passionate about continuing to blend my hands-on experience with advanced data analytics techniques, demonstrating how I’ve successfully transitioned from a solid grounding in logistics to becoming a data-driven problem solver who thrives on tackling complex issues with precision and creativity.
-
-This repository highlights my programming skills, academic and self-directed projects, and certifications from various data analytics courses.
+At HP, I’ve leveraged SQL, Python, and Power BI to analyze complex datasets, identify bottlenecks, and implement data-driven solutions in reporting dashboards. I’m passionate about using data analytics to solve real-world challenges, and this repository highlights my programming skills, key projects, and relevant certifications.
 
 ## Career Projects
 
