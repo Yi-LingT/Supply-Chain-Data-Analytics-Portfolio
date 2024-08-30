@@ -33,7 +33,7 @@ At HP, I’ve leveraged SQL, Python, and Power BI to analyze complex datasets, i
 - **Status:** Completed in May 2019
 
 ## Professional Endorsements
-- **Colleague Recommendations:** [LinkedIn Recommendations](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) 
+- [**Colleague Recommendations:**] (https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) 
 
 ## Certificates
 - [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0019128821129) (Aug 2024) (Datacamp)
