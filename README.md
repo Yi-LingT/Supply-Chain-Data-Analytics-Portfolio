@@ -1,4 +1,4 @@
-# Yi-Ling Tsai - Data Analyst
+# Yi-Ling Tsai - Data Analyst in Supply Chain & Operations
 
 ## About
 Hi, I'm Yi-Ling! I hold a MITx MicroMasters in Supply Chain Analytics and a Master’s in Supply Chain Management (STEM) from The University of Texas at Dallas. My academic background, combined with hands-on experience as a Data Analyst at HP Inc., has equipped me with strong data analytical skills.
