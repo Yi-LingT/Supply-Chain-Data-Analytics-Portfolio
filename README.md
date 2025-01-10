@@ -1,4 +1,4 @@
-# Yi-Ling Tsai - Data Analyst in Supply Chain & Operations
+# Yi-Ling Tsai - Global Supply Chain & Operations Analyst
 
 ## About
 Yi-Ling is a data-driven Data Analyst with over 5 years of experience in supply chain optimization, data management, and business intelligence. Skilled in SQL, Python (Pandas), and Power BI, Yi-Ling specializes in analyzing large datasets, automating ETL processes, and developing dynamic dashboards. Proven success in reducing lead times by 10%, holding costs by 20%, and improving forecast accuracy by 18%. Experienced in collaborating with cross-functional teams to streamline logistics and inventory management. Strong background in public relations analytics, stakeholder engagement, and delivering actionable insights for business growth.
