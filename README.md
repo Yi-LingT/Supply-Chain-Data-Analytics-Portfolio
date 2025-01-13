@@ -3,7 +3,7 @@
 ## Professional Endorsements
 - [Colleague Recommendations](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) 
 
-## Career Projects
+## Projects
 
 ### ADR Analysis of Hotel Booking Demand
 - **Description:** Conducted a comprehensive analysis of Average Daily Rate (ADR) patterns and booking behaviors, focusing on key areas such as seasonal demand, cancellations, length of stay, market segments, lead times, and special requests. Utilized Python, Power BI, and advanced statistical techniques for data visualization and analysis, uncovering actionable insights to inform targeted business strategies.
