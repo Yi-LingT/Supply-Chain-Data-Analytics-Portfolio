@@ -32,8 +32,12 @@
 
 
 ## Certificates
-- [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0019128821129) (Aug 2024) (Datacamp)
+
+- [MITx MircoMasters-Supply Chain Fundamentals](https://courses.edx.org/certificates/c4b70a137ca94761a6155944aadc7020) (Nov 2024) (MITx)
 - [MITx MircoMasters-Supply Chain Analytics](https://courses.edx.org/certificates/9c025b1f2d4a438498d698f064c2274c) (Apr 2024) (MITx)
+- [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0019128821129) (Aug 2024) (DataCamp)
+- [Scrum Fundamentals Certified (SFC)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1063140) (Jan 2025) (6SigmaStudy)
+- [Six Sigma Yellow Belt (SSYB)](https://www.6sigmastudy.com/certification/verify?type=SSYB&number=900115) (Dec 2024) (6SigmaStudy)
 - [Six Sigma: Green Belt](https://www.linkedin.com/learning/certificates/fb75a687f9a4e5da99cc7805107d8a3442c3fa294177cbdba74e9b84ff42d476) (Mar 2021) (LinkedIn Learning)
 
 ## Contacts
