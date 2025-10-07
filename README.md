@@ -1,4 +1,4 @@
-# Yi-Ling T. - Global Supply Chain & Operations Analyst
+# Yi-Ling T. - Supply Chain Analytics
 
 ## Professional Endorsements
 - **Description:** Discover what industry leaders and colleagues say about Yi-Ling Tsai’s ability to transform supply chain operations and drive data-driven results. From her expertise in optimizing workflows to her collaborative leadership style, Yi-Ling has earned praise for delivering measurable impact and fostering innovation. 
