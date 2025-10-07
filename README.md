@@ -5,6 +5,19 @@
 - [Colleague Recommendations](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) 
 - Authorized to work in the U.S. — no sponsorship required.
 
+## Certificates
+- [MITx MircoMasters-Supply Chain Design](https://courses.edx.org/certificates/10fcdf7b538441e6b354cb128eb37381) (Sep 2025) (MITx)
+- [Certified Bookkeeping Professional](https://courses.edx.org/certificates/10fcdf7b538441e6b354cb128eb37381) (Sep 2025) (Intuit)
+- [MITx MircoMasters-Supply Chain Dynamics](https://courses.edx.org/certificates/c4b70a137ca94761a6155944aadc7020) (Jul 2025) (MITx)
+- [Microsoft Office Specialist: Microsoft Excel Expert](https://www.credly.com/badges/3fbcf9a3-9523-4ed5-86c9-7486c51d2a4c/linked_in_profile) (Jun 2025) (Microsoft)
+- [Certified Scrum Fundamentals](https://www.scrumstudy.com/certification/verify?type=SFC&number=1063140) (Jan 2025) (SFC)
+- [MITx MircoMasters-Supply Chain Fundamentals](https://courses.edx.org/certificates/c4b70a137ca94761a6155944aadc7020) (Nov 2024) (MITx)
+- [MITx MircoMasters-Supply Chain Analytics](https://courses.edx.org/certificates/9c025b1f2d4a438498d698f064c2274c) (Apr 2024) (MITx)
+- [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0019128821129) (Aug 2024) (DataCamp)
+- [Scrum Fundamentals Certified (SFC)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1063140) (Jan 2025) (6SigmaStudy)
+- [Six Sigma Yellow Belt (SSYB)](https://www.6sigmastudy.com/certification/verify?type=SSYB&number=900115) (Dec 2024) (6SigmaStudy)
+- [Six Sigma: Green Belt](https://www.linkedin.com/learning/certificates/fb75a687f9a4e5da99cc7805107d8a3442c3fa294177cbdba74e9b84ff42d476) (Mar 2021) (LinkedIn Learning)
+- 
 ## Projects
 
 ### ADR Analysis of Hotel Booking Demand
@@ -33,18 +46,6 @@
 - **Status:** Completed in May 2019
 
 
-## Certificates
-- [MITx MircoMasters-Supply Chain Design](https://courses.edx.org/certificates/10fcdf7b538441e6b354cb128eb37381) (Sep 2025) (MITx)
-- [Certified Bookkeeping Professional](https://courses.edx.org/certificates/10fcdf7b538441e6b354cb128eb37381) (Sep 2025) (Intuit)
-- [MITx MircoMasters-Supply Chain Dynamics](https://courses.edx.org/certificates/c4b70a137ca94761a6155944aadc7020) (Jul 2025) (MITx)
-- [Microsoft Office Specialist: Microsoft Excel Expert](https://www.credly.com/badges/3fbcf9a3-9523-4ed5-86c9-7486c51d2a4c/linked_in_profile) (Jun 2025) (Microsoft)
-- [Certified Scrum Fundamentals](https://www.scrumstudy.com/certification/verify?type=SFC&number=1063140) (Jan 2025) (SFC)
-- [MITx MircoMasters-Supply Chain Fundamentals](https://courses.edx.org/certificates/c4b70a137ca94761a6155944aadc7020) (Nov 2024) (MITx)
-- [MITx MircoMasters-Supply Chain Analytics](https://courses.edx.org/certificates/9c025b1f2d4a438498d698f064c2274c) (Apr 2024) (MITx)
-- [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0019128821129) (Aug 2024) (DataCamp)
-- [Scrum Fundamentals Certified (SFC)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1063140) (Jan 2025) (6SigmaStudy)
-- [Six Sigma Yellow Belt (SSYB)](https://www.6sigmastudy.com/certification/verify?type=SSYB&number=900115) (Dec 2024) (6SigmaStudy)
-- [Six Sigma: Green Belt](https://www.linkedin.com/learning/certificates/fb75a687f9a4e5da99cc7805107d8a3442c3fa294177cbdba74e9b84ff42d476) (Mar 2021) (LinkedIn Learning)
 
 ## Contacts
 - **LinkedIn:** [@yi-ling-tsai](https://www.linkedin.com/in/yi-ling-tsai/?locale=en_US)
