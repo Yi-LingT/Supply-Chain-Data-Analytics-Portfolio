@@ -1,7 +1,7 @@
 # Yi-Ling T. - Supply Chain & Operations Analytics
 
 ## Professional Endorsements
-- **Description:** Discover what industry leaders and colleagues say about Yi-Ling Tsai’s ability to transform supply chain operations and drive data-driven results. From her expertise in optimizing workflows to her collaborative leadership style, Yi-Ling has earned praise for delivering measurable impact and fostering innovation. 
+- **Description:** Discover what industry leaders and colleagues say about Yi-Ling’s ability to transform supply chain operations and drive data-driven results. From her expertise in optimizing workflows to her collaborative leadership style, Yi-Ling has earned praise for delivering measurable impact and fostering innovation. 
 - [Colleague Recommendations](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) Click to explore testimonials.
 
 ## Projects
