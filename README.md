@@ -1,7 +1,8 @@
 # Yi-Ling T. - Supply Chain & Operations Analytics
 
 ## Professional Endorsements
-- **Description:** Discover what industry leaders and colleagues say about Yi-Ling’s ability to transform supply chain operations and drive data-driven results. From her expertise in optimizing workflows to her collaborative leadership style, Yi-Ling has earned praise for delivering measurable impact and fostering innovation. 
+- **Description:**Hi, I'm Yi-Ling! I hold a Master’s in Supply Chain Management from UT Dallas and a certificate from MIT MicroMasters Supply Chain Management (SC0–3x). With 3.5 years of experience at HP Inc., I developed strong analytical and problem-solving skills in supply chain operations. I’m now deepening my data analytics expertise to combine business insight with data-driven decision-making. This repository highlights my projects and certifications that reflect my path toward a career in supply chain analytics.
+  
 - [Colleague Recommendations](https://www.linkedin.com/in/yi-ling-tsai/details/recommendations/?locale=en_US) Click to explore testimonials.
 
 ## Projects
