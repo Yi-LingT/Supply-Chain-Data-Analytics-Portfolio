@@ -21,8 +21,7 @@
 - 
 ## Projects
 ### UC DAVIS SQL for Data Science Final Project
-- **SQL**
-   <br>(https://github.com/Yi-LingT/Analytics-Projects/blob/main/UC_DAVIS_SQL_for_Data_Science_Final_Project.ipynb)
+- **SQL** <br>(https://github.com/Yi-LingT/Analytics-Projects/blob/main/UC_DAVIS_SQL_for_Data_Science_Final_Project.ipynb)
 
 
 ### ADR Analysis of Hotel Booking Demand
