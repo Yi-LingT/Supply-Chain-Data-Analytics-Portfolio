@@ -6,6 +6,7 @@
 - Authorized to work in the U.S. — no sponsorship required.
 
 ## Certificates
+- [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TR3ZOKNYVOUK) (Oct 2025) (UC Davis)
 - [MITx MircoMasters-Supply Chain Design](https://courses.edx.org/certificates/10fcdf7b538441e6b354cb128eb37381) (Sep 2025) (MITx)
 - [Certified Bookkeeping Professional](https://courses.edx.org/certificates/10fcdf7b538441e6b354cb128eb37381) (Sep 2025) (Intuit)
 - [MITx MircoMasters-Supply Chain Dynamics](https://courses.edx.org/certificates/c4b70a137ca94761a6155944aadc7020) (Jul 2025) (MITx)
@@ -19,6 +20,10 @@
 - [Six Sigma: Green Belt](https://www.linkedin.com/learning/certificates/fb75a687f9a4e5da99cc7805107d8a3442c3fa294177cbdba74e9b84ff42d476) (Mar 2021) (LinkedIn Learning)
 - 
 ## Projects
+### UC DAVIS SQL for Data Science Final Project
+- **SQL**
+   <br>(https://github.com/Yi-LingT/Analytics-Projects/blob/main/UC_DAVIS_SQL_for_Data_Science_Final_Project.ipynb)
+
 
 ### ADR Analysis of Hotel Booking Demand
 - Conducted a comprehensive analysis of Average Daily Rate (ADR) patterns and booking behaviors, focusing on key areas such as seasonal demand, cancellations, length of stay, market segments, lead times, and special requests. Utilized Python, Power BI, and advanced statistical techniques for data visualization and analysis, uncovering actionable insights to inform targeted business strategies.
