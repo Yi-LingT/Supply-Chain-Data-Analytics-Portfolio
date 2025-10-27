@@ -22,7 +22,7 @@
 ## Projects
 ### UC DAVIS SQL for Data Science Final Project
 - **SQL** <br>(https://github.com/Yi-LingT/Analytics-Projects/blob/main/UC_DAVIS_SQL_for_Data_Science_Final_Project.ipynb)
-
+- **Status:** Completed in Oct 2025
 
 ### ADR Analysis of Hotel Booking Demand
 - Conducted a comprehensive analysis of Average Daily Rate (ADR) patterns and booking behaviors, focusing on key areas such as seasonal demand, cancellations, length of stay, market segments, lead times, and special requests. Utilized Python, Power BI, and advanced statistical techniques for data visualization and analysis, uncovering actionable insights to inform targeted business strategies.
