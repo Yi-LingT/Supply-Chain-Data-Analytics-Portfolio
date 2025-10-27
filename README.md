@@ -20,8 +20,8 @@
 - [Six Sigma: Green Belt](https://www.linkedin.com/learning/certificates/fb75a687f9a4e5da99cc7805107d8a3442c3fa294177cbdba74e9b84ff42d476) (Mar 2021) (LinkedIn Learning)
 - 
 ## Projects
-### UC DAVIS SQL for Data Science Final Project
-- **SQL** <br>(https://github.com/Yi-LingT/Analytics-Projects/blob/main/UC_DAVIS_SQL_for_Data_Science_Final_Project.ipynb)
+### UC DAVIS SQL for Data Science - Final Project
+- **SQL**(https://github.com/Yi-LingT/Analytics-Projects/blob/main/UC_DAVIS_SQL_for_Data_Science_Final_Project.ipynb)
 - **Status:** Completed in Oct 2025
 
 ### ADR Analysis of Hotel Booking Demand
