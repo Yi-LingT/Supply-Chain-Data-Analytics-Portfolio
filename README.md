@@ -20,6 +20,21 @@
 - [Six Sigma: Green Belt](https://www.linkedin.com/learning/certificates/fb75a687f9a4e5da99cc7805107d8a3442c3fa294177cbdba74e9b84ff42d476) (Mar 2021) (LinkedIn Learning)
 - 
 ## Projects
+
+### Superstore Sales & Profit Analysis
+- Conducted an end-to-end data analysis on retail performance using the Superstore dataset to identify key drivers of sales growth and profitability. Explored customer segments, product categories, regions, and discount patterns to uncover structural inefficiencies and actionable business insights.
+- Key findings include:
+• Consumer segment generated ~50% of sales but only 46% of profit, revealing opportunities for margin improvement through refined discount strategies.
+• Furniture category showed only ~2% profit margin versus ~17% for Technology and Office Supplies, indicating potential losses from high logistics or over-discounting.
+• Discounts were applied in ~59% of orders (average 15%), suggesting the need to identify a “sweet spot” discount range for sustainable growth.
+• 2016–2017 sales showed strong growth, while profits fluctuated heavily during Q4 due to aggressive promotional campaigns.
+- Utilized Python (Pandas, Matplotlib) in Google Colab for data cleaning, KPI computation, and visualization, transforming raw data into strategic insights for business decision-making.
+- **Presentation:** [Report: Hotel Booking Data Analysis - Key Insights and Recommendations](https://github.com/Yi-LingT/Analytics-Projects/blob/main/4-3.%20Report-Hotel-Booking-Data-Analysis-Key-Insights-and-Recommendations.pdf)
+- **Python Code:**
+   <br>[Visualization & Insights: visualization_superstore_analysis.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/5-1.%20Superstore-Sales-and-Profit-Analysis.pdf)
+   <br>[Data Cleaning & KPI Modeling: superstore_clean.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/5-2.%20Superstore_Dataset_Analysis.ipynb)
+- **Status:** Completed in Oct 2025
+
 ### UC DAVIS SQL for Data Science - Final Project
 - **SQL**(https://github.com/Yi-LingT/Analytics-Projects/blob/main/UC_DAVIS_SQL_for_Data_Science_Final_Project.ipynb)
 - **Status:** Completed in Oct 2025
