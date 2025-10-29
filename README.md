@@ -29,10 +29,10 @@
   - Discounts were applied in ~59% of orders (average 15%), suggesting the need to identify a “sweet spot” discount range for sustainable growth.  
   - 2016–2017 sales showed strong growth, while profits fluctuated heavily during Q4 due to aggressive promotional campaigns.  
   - Utilized **Python (Pandas, Matplotlib)** in Google Colab for data cleaning, KPI computation, and visualization, transforming raw data into strategic insights for business decision-making.  
-- **Presentation:** [Report: Superstore Sales & Profit Analysis – Key Insights and Recommendations](https://github.com/Yi-LingT/Analytics-Projects/blob/main/Superstore-Sales-and-Profit-Analysis.pdf)  
+- **Presentation:** [Report: Superstore Sales & Profit Analysis – Key Insights and Recommendations](https://github.com/Yi-LingT/Analytics-Projects/blob/main/5-1.%20Superstore-Sales-and-Profit-Analysis.pdf)  
 - **Python Code:**  
-  - [Data Cleaning & KPI Modeling: superstore_clean.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/superstore_clean.ipynb)  
-  - [Visualization & Insights: visualization_superstore_analysis.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/visualization_superstore_analysis.ipynb)  
+  - [Data Cleaning & KPI Modeling: superstore_clean.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/5-2.%20Superstore_Dataset_Analysis.ipynb)  
+  - [Visualization & Insights: visualization_superstore_analysis.ipynb](https://github.com/Yi-LingT/Analytics-Projects/blob/main/5-2.%20Superstore_Dataset_Analysis.ipynb)  
 - **Status:** Completed in October 2025
 
 
