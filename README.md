@@ -18,7 +18,7 @@
 - [Scrum Fundamentals Certified (SFC)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1063140) (Jan 2025) (6SigmaStudy)
 - [Six Sigma Yellow Belt (SSYB)](https://www.6sigmastudy.com/certification/verify?type=SSYB&number=900115) (Dec 2024) (6SigmaStudy)
 - [Six Sigma: Green Belt](https://www.linkedin.com/learning/certificates/fb75a687f9a4e5da99cc7805107d8a3442c3fa294177cbdba74e9b84ff42d476) (Mar 2021) (LinkedIn Learning)
-- 
+
 ## Projects
 
 ### Superstore Sales & Profit Analysis
