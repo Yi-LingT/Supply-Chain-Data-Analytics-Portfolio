@@ -6,6 +6,7 @@
 - Authorized to work in the U.S. — no sponsorship required.
 
 ## Certificates
+- [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/1XMIF4WEHN04) (Nov 2025) (Google)
 - [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TR3ZOKNYVOUK) (Oct 2025) (UC Davis)
 - [MITx MircoMasters-Supply Chain Design](https://courses.edx.org/certificates/10fcdf7b538441e6b354cb128eb37381) (Sep 2025) (MITx)
 - [Certified Bookkeeping Professional](https://courses.edx.org/certificates/10fcdf7b538441e6b354cb128eb37381) (Sep 2025) (Intuit)
